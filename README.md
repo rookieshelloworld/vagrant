@@ -1,4 +1,4 @@
-# vagrant
+# vagrant  - https://phoenixnap.com/kb/vagrant-beginner-tutorial
 
 vagrant creates virtual machines as per specifications in Vagrantfile. 
 
